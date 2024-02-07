@@ -18,7 +18,7 @@ Youtube Video listesi :
       </tr>
        <tr>
         <td>Strategy Pattern</td>
-        <td>https://youtu.be/OoI6RAJQf1o?si=12mTJtBDPaYZX52y)https://youtu.be/OoI6RAJQf1o?si=12mTJtBDPaYZX52y</td>
+        <td>https://youtu.be/OoI6RAJQf1o?si=12mTJtBDPaYZX52y</td>
         <td>https://github.com/umiitkose/DesignPattern-Umiitkose/blob/master/Tasar%C4%B1mdesenleri.pptx</td>
       </tr>
     </table>
