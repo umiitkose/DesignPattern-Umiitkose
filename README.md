@@ -17,7 +17,7 @@ Youtube Video listesi :
       </tr>
        <tr>
         <td>Strategy Pattern</td>
-        <td>(https://youtu.be/OoI6RAJQf1o?si=12mTJtBDPaYZX52y)https://youtu.be/OoI6RAJQf1o?si=12mTJtBDPaYZX52y</td>
+        <td>https://youtu.be/OoI6RAJQf1o?si=12mTJtBDPaYZX52y)https://youtu.be/OoI6RAJQf1o?si=12mTJtBDPaYZX52y</td>
       </tr>
     </table>
   </body>
