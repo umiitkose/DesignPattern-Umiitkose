@@ -30,7 +30,7 @@ Youtube Video listesi :
       </tr>
       <tr>
         <td>Decorator Pattern</td>
-        <td>https://youtu.be/OoI6RAJQf1o?si=12mTJtBDPaYZX52y</td>
+        <td>https://youtu.be/q9blsauNGdE?si=NwoSgUA17NM6ihn3</td>
         <td>https://github.com/umiitkose/DesignPattern-Umiitkose/tree/master/src/main/java/com/umiitkose/structural/decorator</td>
       </tr>
     </table>
