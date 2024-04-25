@@ -96,7 +96,7 @@ Youtube üzerinden yayınladığım tasarım desenleri (design pattern) serisini
   </body>
 </html>
 
-<h2>Behovioral - Davranışsal</h2>
+<h2>Behovioral</h2>
 <html>
   <head>
   </head>
