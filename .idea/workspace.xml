@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8ae2669-1749-4d22-9d4c-9f6d83d2944a" name="Changes" comment="add images">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/command/lamba/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/command/lamba/Kumanda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/command/lamba/LambaAcCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/command/lamba/LambaKapatCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/command/lamba/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/command/lamba/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/memento/game/Caretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/memento/game/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/memento/game/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/memento/game/Origination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/memento/metin/CareTaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/memento/metin/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/memento/metin/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/memento/metin/Originator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="development" />
+                    <option name="lastUsedInstant" value="1708864801" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1708864800" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/opt/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2FrxS8bpj7hEyRa8XAFNKDDUmAo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;development&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/umitkose/Documents/MyProject/DesignPattern/src/main/java/com/umiitkose/structural&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.24473889&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: [
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.umiitkose.behavioral.command.lamba" />
+      <recent name="com.umiitkose.behavioral.command.siparis" />
+      <recent name="com.umiitkose.creational.prototype.person" />
+      <recent name="com.umiitkose.creational.abstractfactory.banka" />
+      <recent name="com.umiitkose.behavioral.templatemethod.report" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/umiitkose/structural" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/umiitkose/creational/abstractfactory/banka" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/umiitkose/structural/adapter" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/umiitkose/structural/bridge/designpattern" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/umiitkose/structural/adapter/designpattern" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/umiitkose/creational/builder/designpattern" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.umiitkose.behavioral.command.lamba" />
+      <recent name="com.umiitkose.behavioral.command.siparis" />
+      <recent name="com.umiitkose.behavioral.chain_of_responsibility.atm" />
+      <recent name="com.umiitkose.creational.singleton.example" />
+      <recent name="com.umiitkose.oop.solid.dip.solution" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.umiitkose.behavioral.command.lamba.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umiitkose.behavioral.state.lamba.Main" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.umiitkose.behavioral.state.lamba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoteLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umiitkose.behavioral.command.designpattern.remote.RemoteLoader" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.umiitkose.behavioral.command.designpattern.remote.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.umiitkose.behavioral.command.lamba.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umiitkose.behavioral.command.lamba.Main" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.umiitkose.behavioral.command.lamba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.umiitkose.behavioral.memento.game.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umiitkose.behavioral.memento.game.Main" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.umiitkose.behavioral.memento.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.umiitkose.behavioral.memento.metin.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.umiitkose.behavioral.memento.metin.Main" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.umiitkose.behavioral.memento.metin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.umiitkose.behavioral.command.lamba.Main" />
+        <item itemvalue="Application.RemoteLoader" />
+        <item itemvalue="Application.com.umiitkose.behavioral.memento.metin.Main" />
+        <item itemvalue="Application.com.umiitkose.behavioral.memento.game.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8ae2669-1749-4d22-9d4c-9f6d83d2944a" name="Changes" comment="" />
+      <created>1665264003924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665264003924</updated>
+      <workItem from="1665264005360" duration="5284000" />
+      <workItem from="1695360869675" duration="83000" />
+      <workItem from="1698522503273" duration="279000" />
+      <workItem from="1698522790965" duration="3028000" />
+      <workItem from="1698732743548" duration="10000" />
+      <workItem from="1706915442423" duration="5490000" />
+      <workItem from="1707506040830" duration="21715000" />
+      <workItem from="1707722158193" duration="37000" />
+      <workItem from="1708252403078" duration="5769000" />
+      <workItem from="1708457715882" duration="2934000" />
+      <workItem from="1708494164762" duration="615000" />
+      <workItem from="1708540009721" duration="8469000" />
+      <workItem from="1708857179176" duration="6756000" />
+      <workItem from="1709462272131" duration="1443000" />
+      <workItem from="1709664737628" duration="7100000" />
+      <workItem from="1709813861358" duration="575000" />
+      <workItem from="1710619324465" duration="5338000" />
+      <workItem from="1711798482047" duration="4935000" />
+      <workItem from="1712602099418" duration="5835000" />
+      <workItem from="1713691867163" duration="1329000" />
+      <workItem from="1713696337902" duration="599000" />
+      <workItem from="1713700895987" duration="4164000" />
+      <workItem from="1713805839331" duration="3116000" />
+      <workItem from="1713809066520" duration="11385000" />
+      <workItem from="1714021235275" duration="2448000" />
+      <workItem from="1714023754222" duration="315000" />
+      <workItem from="1714040310604" duration="1253000" />
+      <workItem from="1714324521950" duration="788000" />
+      <workItem from="1714325457792" duration="1006000" />
+      <workItem from="1715424551407" duration="730000" />
+      <workItem from="1716056799649" duration="8798000" />
+      <workItem from="1716190913491" duration="3219000" />
+    </task>
+    <task id="LOCAL-00001" summary="add observer pattern examples">
+      <option name="closed" value="true" />
+      <created>1707546961790</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707546961790</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add decorator pattern examples">
+      <option name="closed" value="true" />
+      <created>1707679759944</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707679759944</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add builder,factory pattern examples">
+      <option name="closed" value="true" />
+      <created>1708599819285</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708599819285</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add Tasarımdesenleri.pptx">
+      <option name="closed" value="true" />
+      <created>1708599863464</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708599863464</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update Tasarımdesenleri.pptx and add singleton pattern">
+      <option name="closed" value="true" />
+      <created>1708864816933</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708864816933</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add facade and adapter pattern">
+      <option name="closed" value="true" />
+      <created>1709706543364</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709706543364</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add facade and adapter pattern">
+      <option name="closed" value="true" />
+      <created>1709706570272</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709706570272</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add design pattern">
+      <option name="closed" value="true" />
+      <created>1709814048735</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709814048735</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add template method pattern">
+      <option name="closed" value="true" />
+      <created>1710674617538</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710674617538</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add abstract factory pattern">
+      <option name="closed" value="true" />
+      <created>1712602125534</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712602125534</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add abstract factory pattern">
+      <option name="closed" value="true" />
+      <created>1712602155978</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712602155978</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add chain of responsibility pattern">
+      <option name="closed" value="true" />
+      <created>1713708194690</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1713708194690</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add chain of responsibility pattern">
+      <option name="closed" value="true" />
+      <created>1713708213517</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1713708213517</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add state pattern and another design patterns">
+      <option name="closed" value="true" />
+      <created>1714023165120</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1714023165120</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add presentation">
+      <option name="closed" value="true" />
+      <created>1714023540272</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1714023540272</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add images">
+      <option name="closed" value="true" />
+      <created>1714024066492</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1714024066492</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add observer pattern examples" />
+    <MESSAGE value="add decorator pattern examples" />
+    <MESSAGE value="add builder,factory pattern examples" />
+    <MESSAGE value="add Tasarımdesenleri.pptx" />
+    <MESSAGE value="update Tasarımdesenleri.pptx and add singleton pattern" />
+    <MESSAGE value="add facade and adapter pattern" />
+    <MESSAGE value="add design pattern" />
+    <MESSAGE value="add template method pattern" />
+    <MESSAGE value="add abstract factory pattern" />
+    <MESSAGE value="add chain of responsibility pattern" />
+    <MESSAGE value="add state pattern and another design patterns" />
+    <MESSAGE value="add presentation" />
+    <MESSAGE value="add images" />
+    <option name="LAST_COMMIT_MESSAGE" value="add images" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/Main.java</url>
+          <line>26</line>
+          <properties class="com.umiitkose.behavioral.chain_of_responsibility.sunucu.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/Main.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/Main.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/UserExistsMiddleware.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/UserExistsMiddleware.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/UserExistsMiddleware.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/UserExistsMiddleware.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/UserExistsMiddleware.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/UserExistsMiddleware.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/UserExistsMiddleware.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/Middleware.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/Middleware.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/Middleware.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/Middleware.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/RoleCheckMiddleware.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/RoleCheckMiddleware.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/RoleCheckMiddleware.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/RoleCheckMiddleware.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/RoleCheckMiddleware.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/Server.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/Server.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/Server.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/Server.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/ThrottlingMiddleware.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/ThrottlingMiddleware.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/ThrottlingMiddleware.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/ThrottlingMiddleware.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/ThrottlingMiddleware.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/ThrottlingMiddleware.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/ThrottlingMiddleware.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/ThrottlingMiddleware.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/ThrottlingMiddleware.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/ThrottlingMiddleware.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/Main.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/Main.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/Main.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/Main.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/Main.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/Main.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/umiitkose/behavioral/chain_of_responsibility/sunucu/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
